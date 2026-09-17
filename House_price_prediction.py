@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-model = joblib.load("house_price_prediction.pkl")
+model = joblib.load("🤡house_price_prediction.pkl")
 st.title("House Price Prediction")
 Area = st.number_input(
     "Enter Area",
